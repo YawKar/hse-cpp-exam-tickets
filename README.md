@@ -8,3 +8,4 @@
 - [Билет 5. Многофайловая разработка. Заголовочные файлы, препроцессор, include guard.](tickets/05.md)
 - [Билет 6. Namespaces. Шаблоны классов. STL. vector.](tickets/06.md)
 - [Билет 7. STL. Итераторы. string, std::array. using. Most Vexing Parse, указатели на функции.](tickets/07.md)
+- [Билет 8. STL. Инициализация с помощью `{}`, initializer_list, range-based for. auto.](tickets/08.md)

@@ -11,3 +11,4 @@
 - [Билет 8. STL. Инициализация с помощью `{}`, initializer_list, range-based for. auto.](tickets/08.md)
 - [Билет 9. STL. Инвалидация итераторов. Работа со временем. ГПСЧ.](tickets/09.md)
 - [Билет 10. Контейнеры. deque, stack, queue, forward_list, list, pair, unordered_map.](tickets/10.md)
+- [Билет 11. Функциональные объекты. CV-квалификаторы, const, const-корректность, unordered_map.](tickets/11.md)

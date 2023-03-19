@@ -12,3 +12,4 @@
 - [Билет 9. STL. Инвалидация итераторов. Работа со временем. ГПСЧ.](tickets/09.md)
 - [Билет 10. Контейнеры. deque, stack, queue, forward_list, list, pair, unordered_map.](tickets/10.md)
 - [Билет 11. Функциональные объекты. CV-квалификаторы, const, const-корректность, unordered_map.](tickets/11.md)
+- [Билет 12. STL. unordered_set, map, set, multiset, multimap, std::function, Лямбда-функции, замыкания.](tickets/12.md)

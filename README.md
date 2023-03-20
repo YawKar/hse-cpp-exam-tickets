@@ -13,3 +13,4 @@
 - [Билет 10. Контейнеры. deque, stack, queue, forward_list, list, pair, unordered_map.](tickets/10.md)
 - [Билет 11. Функциональные объекты. CV-квалификаторы, const, const-корректность, unordered_map.](tickets/11.md)
 - [Билет 12. STL. unordered_set, map, set, multiset, multimap, std::function, Лямбда-функции, замыкания.](tickets/12.md)
+- [Билет 17. STL. RAII. Умные указатели - unique_ptr. decltype.](tickets/17.md)

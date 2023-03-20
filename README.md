@@ -14,3 +14,4 @@
 - [Билет 11. Функциональные объекты. CV-квалификаторы, const, const-корректность, unordered_map.](tickets/11.md)
 - [Билет 12. STL. unordered_set, map, set, multiset, multimap, std::function, Лямбда-функции, замыкания.](tickets/12.md)
 - [Билет 17. STL. RAII. Умные указатели - unique_ptr. decltype.](tickets/17.md)
+- [Билет 18. shared_ptr, weak_ptr.](tickets/18.md)
